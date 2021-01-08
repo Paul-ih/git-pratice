@@ -1,0 +1,3 @@
+Name : Paul
+Age : 41
+Favorite color : Red
